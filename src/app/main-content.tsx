@@ -45,7 +45,7 @@ export function MainContent({ user, project }: MainContentProps) {
                 <div className="h-14 flex items-center justify-between px-6 border-b border-neutral-200/60">
                   <div>
                     <h1 className="text-lg font-semibold text-neutral-900 tracking-tight">UIGen</h1>
-                    <p className="text-xs text-neutral-400">AI-powered React component generator</p>
+                    <p className="text-xs text-neutral-400">Gen AI-powered React component generator</p>
                   </div>
                 </div>
 
