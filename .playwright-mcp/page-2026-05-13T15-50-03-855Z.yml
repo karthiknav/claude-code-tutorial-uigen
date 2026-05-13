@@ -1,0 +1,35 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a pricing card component with a plan name, price, list of features, and a CTA button
+            - img [ref=e57]
+          - generic [ref=e60]:
+            - img [ref=e63]
+            - generic [ref=e68]:
+              - paragraph [ref=e70]: This is a static response. You can place an Anthropic API key in the .env file to use the Anthropic API for component generation. Let me create an App.jsx file to display the component.
+              - generic [ref=e73]: str_replace_editor
+              - separator [ref=e74]
+              - paragraph [ref=e76]: I'll creat
+              - generic [ref=e77]:
+                - img [ref=e78]
+                - generic [ref=e80]: Generating...
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e81]:
+        
+  - alert [ref=e50]

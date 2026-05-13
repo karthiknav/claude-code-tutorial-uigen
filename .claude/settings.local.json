@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const pkg = require\\('./package.json'\\); console.log\\(JSON.stringify\\({deps: pkg.dependencies, devDeps: pkg.devDependencies}, null, 2\\)\\)\")",
+      "mcp__playwright",
+      "mcp__playwright"
+    ]
+  }
+}
