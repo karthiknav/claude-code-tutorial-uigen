@@ -2,6 +2,7 @@
   "name": "uigen",
   "version": "0.1.0",
   "private": true,
+  "description": "AI-powered React component generator with live preview",
   "scripts": {
     "dev": "next dev --turbopack",
     "dev:daemon": "next dev --turbopack > logs.txt 2>&1 & echo 'Server started, writing logs to logs.txt'",
@@ -14,6 +15,7 @@
   },
   "dependencies": {
     "@ai-sdk/anthropic": "1.2.12",
+    "@anthropic-ai/claude-agent-sdk": "^0.2.141",
     "@babel/standalone": "^7.27.6",
     "@monaco-editor/react": "^4.7.0",
     "@prisma/client": "^6.10.1",
